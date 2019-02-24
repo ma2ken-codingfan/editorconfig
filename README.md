@@ -2,3 +2,4 @@
 
 ## default .editorconfig
 
+default
