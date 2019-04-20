@@ -1,1 +1,4 @@
-
+app/*
+!.keep
+.editorconfig
+node_modules/
